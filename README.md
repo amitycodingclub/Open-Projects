@@ -7,7 +7,7 @@ A place for ACC Core Team members to start contributing into the open source pro
   2. Alumni of ACC
   3. In GitHub ACC core-team 
  
-```*1 is applicable to all ```
+```*3 is applicable to all ```
 
 ## How to participate?
 
