@@ -12,13 +12,13 @@ A place for ACC Core Team members to start contributing into the open source pro
 ## How to participate?
 
 :point_right: **Start with a fresh Idea 🏁** 
-1. Head towards ```Discussions``` **->** ```New Discussion```
-2. Write about your idea with ```💡Idea``` tag.
-3. Share with the Core Team
-4. Once the team interested into it and ready to start, the project will created and ready to start. 💥 
+1. Head towards [```Discussions```](https://github.com/amitycodingclub/Open-Projects/discussions) **->** [```New Discussion```](https://github.com/amitycodingclub/Open-Projects/discussions/new)
+2. Write about your idea with [```💡Idea```](https://github.com/amitycodingclub/Open-Projects/discussions/categories/ideas) tag.
+3. Share with the [Core Team](https://github.com/orgs/amitycodingclub/teams/coreteam)
+4. Once the team interested into it and ready to start, the project will created with repo and *get set go*. 💥 
 
 :point_right: **Contribute to an existing one 🖍️**
-1. Browse existing projects from :building_construction: Projects forum
+1. Browse existing projects from [:building_construction: Projects](https://github.com/amitycodingclub/Open-Projects/discussions/categories/projects) forum
 2. Read out the summary of what the project does
 3. Visit the repository and check out some of the open issues or features
 4. Checkout the repository ⬇️, start coding 💻 and get onboard 🚀
